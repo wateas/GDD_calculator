@@ -18,3 +18,5 @@ Weather station data can be downloaded from NOAA:
 The user will need to edit the script to specify the directory containing the source data (and where the output data will be placed), the source data file name(s), and the start date from which GDD will be calculated.  All of these parameters can be found in the function "main".
 
 If the start date is set too soon in the season, an inflated calculation of GDD will result.  As mentioned above, the user should have some knowledge about their local climate, specifically when average soil temperatures reach 50 degrees F.     
+
+Contact: mailto:wateas@gmail.com
