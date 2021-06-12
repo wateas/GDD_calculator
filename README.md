@@ -1,9 +1,9 @@
 # GDD_calculator
-Calculate Growing Degree Days from weather history data available from NOAA.
+Calculate Growing Degree Days (GDD) from weather history data available from NOAA.
 
-Growing Degree Days (GDD) can be averaged from the temperature data from one or several weather stations.  Unless the user believes that a single, nearby weather station is a good representation of their immediate area, the user may want to average data from 2 or 3 nearby stations.
+This script allows the user to calculate GDD using data from one station or average the results from several stations.  Unless the user believes that a single, nearby weather station is a good representation of their immediate area, the user may want to average data from 2 or 3 nearby stations.
 
-For calculation of GDD, soil temperatures should be used in place of air temperatures until leaf emergence.  Soil temperature data can easily be substituted in the output files (csv).  Otherwise, air temperatures can probably provide a reasonable estimate of GDD if the chosen date is approximately when the average soil temperature reaches 50 degrees F.
+For the most accurate calculation of GDD, soil temperatures should ideally be used in place of air temperatures until leaf emergence.  Soil temperature data can easily be substituted in the output files (csv).  Otherwise, air temperatures can probably provide a reasonable estimate of GDD if the chosen starting date (see below) is approximately when the average soil temperature reaches 50 degrees F.  Syngenta has online soil temperature map data available: https://www.greencastonline.com/tools/soil-temperature
 
 Weather station data can be downloaded from NOAA:
 
