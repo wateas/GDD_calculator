@@ -19,4 +19,4 @@ The user will need to edit the script to specify the directory containing the so
 
 If the start date is set too soon in the season, an inflated calculation of GDD will result.  As mentioned above, the user should have some knowledge about their local climate, specifically when average soil temperatures reach 50 degrees F.     
 
-Contact: mailto:wateas@gmail.com
+Contact: [Fred Teasley](mailto:wateas@gmail.com?subject=[GitHub]%20GDD%20Calculator)
